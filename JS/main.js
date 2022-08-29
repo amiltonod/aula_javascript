@@ -6,4 +6,4 @@ var n2 = 30;
 console.log(nome);
 console.log(n1 + n2);
 console.log(frase.toUpperCase()) // Colocar tudo maiúsculo
-console.log(frase.toLowerCase())// Colocar tudo minúscolo
+console.log(frase.toLowerCase())// Colocar tudo minúsculo
